@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4935f04-85c9-4042-8e03-9f4a2e64577f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jCkq3NVU7sDCZaVhHT6pBzYlRJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v14.12.0/bin/node" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/server/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4935f04-85c9-4042-8e03-9f4a2e64577f" name="Default Changelist" comment="" />
+      <created>1603315653097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603315653097</updated>
+      <workItem from="1603315655059" duration="2997000" />
+      <workItem from="1603318694807" duration="1703000" />
+      <workItem from="1603331335717" duration="6075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2097" y="31" width="800" height="833" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603318999450">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2097" y="31" width="800" height="833" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603318999450" />
+    <state x="2159" y="292" width="675" height="435" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603318876357">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2159" y="292" width="675" height="435" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603318876357" />
+    <state x="2867" y="251" width="424" height="516" key="FileChooserDialogImpl" timestamp="1603317874944">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2867" y="251" width="424" height="516" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603317874944" />
+    <state width="286" height="538" key="HiddenNamespacesPopup" timestamp="1603319012129">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="286" height="538" key="HiddenNamespacesPopup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603319012129" />
+    <state x="2414" y="-31" width="1340" height="1111" key="SettingsEditor" timestamp="1603320382281">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2414" y="-31" width="1340" height="1111" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603320382281" />
+    <state x="2170" y="215" width="672" height="678" key="search.everywhere.popup" timestamp="1603337332085">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2170" y="215" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603337332085" />
+  </component>
+</project>
